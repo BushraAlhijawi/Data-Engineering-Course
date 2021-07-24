@@ -15,17 +15,17 @@ f0d8c051-8032-4583-a723-283f358d46b0,Maria,226.06,Yearly
 3419fdae-0cd2-4ad8-a05e-c3687934fc77,Horka nad Moravou,524.73,Monthly
 32eb4282-ba02-41df-80c9-9a7c1ff0716c,Příbram,725.61,Once
 0542fa93-e79d-43b0-8271-566e811a60a1,Mangulile,325.09,Weekly
-089fdbdd-e68c-4664-bdd1-9d6963fe149c,Ruchihe,470.32,Once
-b7f64aca-9d2d-4c96-b0e9-94707c397d86,Wenbi,392.23,Weekly
-141b0829-4782-4b76-a351-b30007479350,Putrajaya,153.68,Monthly
-c42a9ca9-da4b-4d1f-b60b-33a2776d7559,Zhaixi,515.86,Once
-62285012-359e-488a-bce8-385a5f9b0848,Columbus,326.52,Monthly
-c987bd5d-e3ac-480c-9e65-a0fad290617c,Kaytitinga,522.75,Monthly
-871bbd87-ab85-4a63-94c4-f2ef9339c640,Nizhniy Tagil,375.7,Weekly
-4690b428-2c19-4862-a56b-35081e1f6a70,Lasi Dua,221.17,Once
-88e68811-494e-4e05-8911-14dd23458a1a,Damai,196.59,Weekly
-f6f49257-f8da-4807-bcfe-2ff024a91cce,Nanying,224.31,Once
-9c94938c-c026-4318-ba43-0487903a4e3a,Mekarjaya Satu,682.37,Monthly
+089fdbdd-e68c-4664-bdd1-9d6963fe149c,Ruchihe,,Once
+b7f64aca-9d2d-4c96-b0e9-94707c397d86,Wenbi,,Weekly
+141b0829-4782-4b76-a351-b30007479350,Putrajaya,,Monthly
+c42a9ca9-da4b-4d1f-b60b-33a2776d7559,Zhaixi,,Once
+62285012-359e-488a-bce8-385a5f9b0848,Columbus,,Monthly
+c987bd5d-e3ac-480c-9e65-a0fad290617c,Kaytitinga,,Monthly
+871bbd87-ab85-4a63-94c4-f2ef9339c640,Nizhniy Tagil,,Weekly
+4690b428-2c19-4862-a56b-35081e1f6a70,Lasi Dua,,Once
+88e68811-494e-4e05-8911-14dd23458a1a,Damai,,Weekly
+f6f49257-f8da-4807-bcfe-2ff024a91cce,Nanying,,Once
+9c94938c-c026-4318-ba43-0487903a4e3a,Mekarjaya Satu,,Monthly
 e5b37444-e35c-43ba-8d34-e87f7f3612ce,Pangpang,307.9,Yearly
 adcefcd7-97ce-4585-b8c4-e10aa7c6d30b,Talawakele,345.87,Once
 9c899a2d-db5c-4a58-b30a-53a0ebe0092b,Selajambe Satu,208.15,Yearly
@@ -120,28 +120,28 @@ d16b4ddb-2fd2-4e61-bee8-3e56a99d8331,Nowy Dwór Gdański,407.48,Monthly
 f9f1d980-14cf-4ac1-99c2-9c0d68647657,Hongxi,507.75,Once
 7b679ae2-2220-43f6-bf28-be1326c2c79f,Pôrto Barra do Ivinheima,163.92,Yearly
 47dae15b-5f6c-42c0-bcb7-b7e89da662bb,Santo Niño,321.51,Monthly
-29f50f3f-6a0f-4d40-b55b-8232220ee81f,Almeirim,482.91,Monthly
-3b8e45c0-d1da-4f5f-a6cc-ee044bd8d84b,Nicasio,334.12,Yearly
-414e2cd4-3caa-4928-a753-e44afe0216f8,Yingcui,270.89,Weekly
-845114d1-50dc-48eb-8101-373c2379989f,Ventersdorp,189.92,Weekly
-9a2e8375-bed1-4668-b500-da9b3bcfb1c7,Rača,510.31,Yearly
-54b419d0-054a-4fee-a08d-d5bfb7f6387b,Ciodeng,744.25,Once
-5f91413e-e9c6-4486-872b-359265ed9074,Sterling,659.82,Monthly
-bb1fe012-e60d-46f2-a707-e6b0efa1513b,,379.53,Yearly
-61b37b31-0691-4bbd-9d5b-9d4c51317da9,Quiaios,586.16,Monthly
-ed72ccf1-d93b-49bc-aec6-10907f32ad64,Vohipaho,196.3,Once
-879df520-630a-40ac-b26c-13294af674ca,Jadów,238.61,Once
-502e1ce5-38c5-4254-b8f0-9a42aa225368,Dourbali,513.42,Once
-4d82b2cc-7562-4cd6-b2d2-70a2209e66ed,Gândara,650.87,Monthly
-27c0a858-d22c-4bd1-bd86-94871fc4a611,Douliu,438.27,Once
-37232a0c-6f74-4e37-bea0-4eaea7fe7822,Jiguaní,170.9,Once
-69a36899-d0f2-47d8-9923-8833bcc5c265,Krzemieniewo,732.65,Weekly
-6fc20d0e-fc90-4f06-8d83-bf4ae3e45c73,Qŭrghonteppa,182.35,Once
-5c77de00-bcd5-4efa-81fb-d68d7dac2909,Bahía Blanca,446.54,Weekly
-945441cc-98f4-441a-a0fb-b2642b0fc374,Tacuatí,334.84,Weekly
-01c40653-72dc-44c9-a2bb-4e7031e6f27d,Chouto,250.35,Weekly
-3a043db9-71e3-46a6-8cf3-e4a4d9e154c8,Aoluguya Ewenke Minzu,286.59,Monthly
-528a2dc1-6a10-4c62-a0d6-3cccde4806e7,Thị Trấn Nga Sơn,404.22,Once
+29f50f3f-6a0f-4d40-b55b-8232220ee81f,Almeirim,,Monthly
+3b8e45c0-d1da-4f5f-a6cc-ee044bd8d84b,Nicasio,,Yearly
+414e2cd4-3caa-4928-a753-e44afe0216f8,Yingcui,,Weekly
+845114d1-50dc-48eb-8101-373c2379989f,Ventersdorp,,Weekly
+9a2e8375-bed1-4668-b500-da9b3bcfb1c7,Rača,,Yearly
+54b419d0-054a-4fee-a08d-d5bfb7f6387b,Ciodeng,,Once
+5f91413e-e9c6-4486-872b-359265ed9074,Sterling,,Monthly
+bb1fe012-e60d-46f2-a707-e6b0efa1513b,,,Yearly
+61b37b31-0691-4bbd-9d5b-9d4c51317da9,Quiaios,,Monthly
+ed72ccf1-d93b-49bc-aec6-10907f32ad64,Vohipaho,,Once
+879df520-630a-40ac-b26c-13294af674ca,Jadów,,Once
+502e1ce5-38c5-4254-b8f0-9a42aa225368,Dourbali,,Once
+4d82b2cc-7562-4cd6-b2d2-70a2209e66ed,Gândara,,Monthly
+27c0a858-d22c-4bd1-bd86-94871fc4a611,Douliu,,Once
+37232a0c-6f74-4e37-bea0-4eaea7fe7822,Jiguaní,,Once
+69a36899-d0f2-47d8-9923-8833bcc5c265,Krzemieniewo,,Weekly
+6fc20d0e-fc90-4f06-8d83-bf4ae3e45c73,Qŭrghonteppa,,Once
+5c77de00-bcd5-4efa-81fb-d68d7dac2909,Bahía Blanca,,Weekly
+945441cc-98f4-441a-a0fb-b2642b0fc374,Tacuatí,,Weekly
+01c40653-72dc-44c9-a2bb-4e7031e6f27d,Chouto,,Weekly
+3a043db9-71e3-46a6-8cf3-e4a4d9e154c8,Aoluguya Ewenke Minzu,,Monthly
+528a2dc1-6a10-4c62-a0d6-3cccde4806e7,Thị Trấn Nga Sơn,,Once
 6ba75579-709f-499c-96c1-c59ce83d85c9,Maliiha,630.05,Monthly
 70dee83a-564e-4cd7-b60b-689989c79c32,Paris 15,593.17,Weekly
 9d851425-44d0-472a-9731-695caff57945,Gião,654.03,Monthly
